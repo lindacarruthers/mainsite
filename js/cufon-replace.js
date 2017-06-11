@@ -1,0 +1,1 @@
+Cufon.replace('', { fontFamily: 'Trajan Pro' });

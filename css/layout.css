@@ -1,0 +1,35 @@
+/*======= index.html =======*/
+#page1 #content .row-2 .col-1 {width:282px; margin-right:48px;}
+#page1 #content .row-2 .col-2 { width:282px; margin-right:45px;}
+#page1 #content .row-2 .col-3 { width:282px;}
+
+/*======= index-1.html =======*/
+#page2 #content .col-1 {width:613px; margin-right:41px;}
+#page2 #content .col-2 { width:271px;}
+#page2 #content .col-1 .col-1 {width:292px; margin-right:36px;}
+#page2 #content .col-1 .col-2 {width:285px;}
+
+/*======= index-2.html =======*/
+#page3 #content .row-1 .col-1 {width:430px; margin-right:34px;}
+#page3 #content .row-1 .col-2 {width:425px;}
+#page3 #content .row-2 .col-1 {width:282px; margin-right:48px;}
+#page3 #content .row-2 .col-2 { width:605px;}
+#page3 #content .row-2 .col-2 .col-1 {width:277px; margin-right:51px;}
+#page3 #content .row-2 .col-2 .col-2 {width:275px;}
+
+/*======= index-3.html =======*/
+#page4 #content .col-1 {width:613px; margin-right:41px;}
+#page4 #content .col-2 { width:271px;}
+#page4 #content .col-1 .col-1 {width:600px; margin-right:36px;}
+#page4 #content .col-1 .col-2 {width:285px;}
+
+/*======= index-4.html =======*/
+#page5 #content .col-1 { width:273px; margin-right:57px;}
+#page5 #content .col-2 {width:613px; }
+/*#page5 #content .col-2 .col-1 {width:292px; margin-right:36px;}*/
+#page5 #content .col-2 .col-2 {width:285px; position:top !important;}
+
+
+/*=========================*/
+
+
